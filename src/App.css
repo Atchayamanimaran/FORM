@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+  justify-content: center;
+  line-height: 50px;
+  background: linear-gradient(rgb(27, 115, 116), white);
+  background: cover;
+  background-repeat: no-repeat;
+  
+}
+.error{
+  color: rgb(254, 7, 7);
+}
+
+.form-container {
+  background: white;
+  padding: 25px;
+  border-radius: 10px;
+  border-style:groove;
+  width: 380px;
+  text-align: center;
+  margin-left:500px;
+} 
+
